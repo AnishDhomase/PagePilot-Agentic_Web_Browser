@@ -15,6 +15,21 @@ Looking for a powerful AI web agent without the $200/month price tag of OpenAI O
 
 ![image](https://github.com/user-attachments/assets/d47c45ce-dce5-492a-9cde-5375181f53a1)
 
+## 🎬 PagePilot in action
+PagePilot on search query "find out best pizza restaurant in pune on swiggy"
+![image](Readme_Assets/start.png)
+
+![image](Readme_Assets/search.png)
+
+![image](Readme_Assets/typeInSearch.png)
+
+![image](Readme_Assets/explorePizzas.png)
+
+![image](Readme_Assets/explorePizzas2.png)
+
+![image](Readme_Assets/result.png)
+
+
 
 ## 📊 Key Features
 
